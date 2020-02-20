@@ -2,7 +2,7 @@
 
 ## Architecture
 
-![Alt text](images/LexEC2StartStop.png?raw=true "Amazon Lex - Start Stop EC2 Instances Example")
+Screenshot 2020-02-20 at 14.38.54.png
 
 ## Background
 
