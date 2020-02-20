@@ -2,7 +2,7 @@
 
 ## Architecture
 
-Screenshot 2020-02-20 at 14.38.54.png
+![GitHub Logo](/images/Screenshot 2020-02-20 at 14.38.54.png)
 
 ## Background
 
